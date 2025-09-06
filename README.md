@@ -13,7 +13,7 @@ La base seleccionada fue **AdventureWorks2014**.
 - **Java 17** o superior  
 - **Maven** instalado  
 - Conexión a internet (para acceder al servidor PRLR)
-- 
+  
 ## Datos de conexión
 - **Host:** relational.fel.cvut.cz  
 - **Puerto:** 3306  
